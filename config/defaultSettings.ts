@@ -12,10 +12,10 @@ const Settings: LayoutSettings & {
   fixedHeader: true,
   fixSiderbar: true,
   colorWeak: false,
-  menu:{
-    locale:true
+  menu: {
+    locale: true,
   },
-  title: 'YuJin',
+  title: 'ant-design-pro-yujin',
   pwa: false,
   logo: 'https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg',
   iconfontUrl: '',
